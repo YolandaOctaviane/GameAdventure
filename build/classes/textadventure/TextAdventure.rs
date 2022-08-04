@@ -1,0 +1,4 @@
+textadventure.Alternate
+textadventure.PlayerAndNavigate
+textadventure.TextAdventure
+textadventure.ConditionEnding
